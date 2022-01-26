@@ -34,8 +34,8 @@ The data set was split into a training/validation set and a testing set using an
 After selecting random forest as the best model to use, I ran a function using cross-validation to find the ideal hyperparameters for the model. Finally, I adjusted the hyperparameters, then ran the random forest model on the test set. The random forest model (with random oversampling) produced an accuracy score of `0.87` on the test data.
 
 Additionally, the SHAP summary plot revealed which features had the highest impact on the model’s output.
+![download](https://user-images.githubusercontent.com/81931093/151100178-809d23e3-a613-4c07-9c93-729fa6dd4753.png)
 
-![download.png](Classification%20Project%20Write-Up%20b0251d49a6f8420a8d8ab964c918e054/download.png)
 
 ### Tools
 
@@ -47,3 +47,4 @@ Additionally, the SHAP summary plot revealed which features had the highest impa
 ### Communication
 
 See .pdf file with slides and visuals on Github: [https://github.com/amitian/ANES-2020-election](https://github.com/amitian/ANES-2020-election)
+

@@ -31,7 +31,7 @@ K-nearest neighbors, logistic regression, decision trees, and XGBoost were attem
 
 The data set was split into a training/validation set and a testing set using an 80/20 split. I used random oversampling on the training data to increase the proportion of the minority target class (non-voters and third party voters) from ~17% to ~30%, which more closely reflects the real-life proportion of non-voters.
 
-After selecting random forest as the best model to use, I ran a function using cross-validation to find the ideal hyperparameters for the model. Finally, I adjusted the hyperparameters, then ran the random forest model on the test set. The random forest model (with random oversampling) produced an accuracy score of `0.867` on the test data.
+After selecting random forest as the best model to use, I ran a function using cross-validation to find the ideal hyperparameters for the model. Finally, I adjusted the hyperparameters, then ran the random forest model on the test set. The random forest model (with random oversampling) produced an accuracy score of `0.87` on the test data.
 
 Additionally, the SHAP summary plot revealed which features had the highest impact on the model’s output.
 

@@ -44,7 +44,18 @@ Additionally, the SHAP summary plot revealed which features had the highest impa
 - Matplotlib and Seaborn for plotting
 - Plotly for visualizations
 
-### Communication
+### Conclusions
+Nonvoters and third-party voters tend to be younger and have lower income levels and education levels. 
+![newplot (3)](https://user-images.githubusercontent.com/81931093/155865729-7f0af5de-a11f-4e73-b0e6-09f29aa6b49c.png)
+![newplot (4)](https://user-images.githubusercontent.com/81931093/155865734-fcdb3f69-3a4c-405e-a80e-7778290c4726.png)
+![newplot (5)](https://user-images.githubusercontent.com/81931093/155865735-bdac2f69-3425-4859-85d5-b8fe91c84809.png)
 
-See .pdf file with slides and visuals on Github: [https://github.com/amitian/ANES-2020-election](https://github.com/amitian/ANES-2020-election)
+Nonvoters and third-party voters overlap with Democrats on certain issues like health insurance and welfare and social services.
+![newplot (8)](https://user-images.githubusercontent.com/81931093/155865783-e6c2eca9-0210-4e28-a83d-2246bb390e3b.png)
+![newplot (7)](https://user-images.githubusercontent.com/81931093/155865788-a7d9ccae-0b98-48d8-a685-d0346061a367.png)
+
+Nonvoters listed "no interest in the election" and "makes no difference" as their most frequently-mentioned reasons for not registering to vote.
+![newplot (6)](https://user-images.githubusercontent.com/81931093/155865737-98cef881-d91b-4686-9de3-6967f7f499f2.png)
+
+For more info, see .pdf file of Google Slides presentation: [https://github.com/amitian/ANES-2020-election](https://github.com/amitian/ANES-2020-election)
 
